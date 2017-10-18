@@ -1,5 +1,5 @@
-# mkdir data
-# wget http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-360K.tar.gz -P data/
+mkdir data
+wget http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-360K.tar.gz -P data/
 cd data
 tar -xvf lastfm-dataset-360K.tar.gz
 
